@@ -1,7 +1,9 @@
 {
   "name": "nibelung-theme-vscode",
   "displayName": "nibelung-theme-vscode",
-  "description": "Minimalist Gray & Blue color  scheme",
+  "description": "Minimalist Gray & Blue color scheme",
+  "icon": "extension/nibelung_logo128x128.png",
+  "publisher": "veschin",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.99.0"
