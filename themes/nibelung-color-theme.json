@@ -1,0 +1,17 @@
+{
+  "name": "Nibelung",
+  "type": "light",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "enumMember": {
+      "foreground": "#ced4da"
+    },
+    "variable.constant": {
+      "foreground": "#adb5bd"
+    },
+    "variable.defaultLibrary": {
+      "foreground": "#6c757d"
+    }
+  },
+
+}
