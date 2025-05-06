@@ -1,12 +1,16 @@
 {
   "name": "nibelung-theme-vscode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/veschin/nibelung-theme-vscode.git"
+  },
   "displayName": "nibelung-theme-vscode",
   "description": "Minimalist Gray & Blue color scheme",
   "icon": "extension/nibelung_logo128x128.png",
   "publisher": "veschin",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "engines": {
-    "vscode": "^1.99.0"
+    "vscode": "^1.94.0"
   },
   "categories": [
     "Themes"
