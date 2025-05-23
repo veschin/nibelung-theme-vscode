@@ -21,6 +21,11 @@
         "label": "Nibelung",
         "uiTheme": "vs",
         "path": "./themes/nibelung-color-theme.json"
+      },
+      {
+        "label": "Nibelung Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nibelung-dark-color-theme.json"
       }
     ]
   }
