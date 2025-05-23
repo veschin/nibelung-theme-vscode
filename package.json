@@ -5,10 +5,10 @@
     "url": "https://github.com/veschin/nibelung-theme-vscode.git"
   },
   "displayName": "nibelung-theme-vscode",
-  "description": "Minimalist Gray & Blue color scheme",
+  "description": "Minimalist Gray & Blue color scheme with Dark and Light variants",
   "icon": "extension/nibelung_logo128x128.png",
   "publisher": "veschin",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.94.0"
   },
